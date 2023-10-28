@@ -1,8 +1,8 @@
 /**
- * An OpenMP solver for the Advection Problem.
- * https://en.wikipedia.org/wiki/Advection
+ * A solver for the diffusion Problem using OpenMP.
+ * https://en.wikipedia.org/wiki/Diffusion_equation
  * 
- * @file advection_solver.cu
+ * @file diffusion_solver.c
  * @author Lars L Ruud
 */
 
