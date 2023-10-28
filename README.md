@@ -1,4 +1,4 @@
-# pthreads-diffusion-solver
+# openmp-diffusion-solver
 A parallel implementation of the [Finite Difference Method (FDM)](https://en.wikipedia.org/wiki/Finite_difference_method) for solving the 2D heat problem, made using [OpenMP](https://en.wikipedia.org/wiki/OpenMP) in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 ![The diffusion solver in action](https://github.com/Thefantasticbagle/pthreads-diffusion-solver/blob/129ace32607ceceb2827cc3cab52a362b476c1ca/example_animation.gif)
